@@ -1,0 +1,1 @@
+This vulnerability assessment was conducted using Nmap for port scanning and OWASP ZAP passive scan for web vulnerability identification. All findings have been manually verified and explained in business-friendly language.
